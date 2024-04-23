@@ -19,5 +19,6 @@ class Matakuliah{
     string kodeMk;
     string namaMk;
     int sks;
+    public :
     
 }
