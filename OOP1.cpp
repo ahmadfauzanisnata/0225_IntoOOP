@@ -39,4 +39,7 @@ class Matakuliah{
 int main (){
     mahasiswa mhs;
     Matakuliah mk;
+
+    mhs.nama = "Budi";
+    
 }
