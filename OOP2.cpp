@@ -5,5 +5,5 @@ class bangunDatar{
     private: //akses modifier
     float panjang, Lebar;
     public:
-    
+    float Luas;
 }
