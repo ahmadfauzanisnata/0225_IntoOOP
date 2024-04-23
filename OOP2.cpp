@@ -9,5 +9,9 @@ class bangunDatar{
 
     void input(){ // methode input persegi panjang
 
+    cout << "Masukan panjangnya = ";
+    cin >> panjang;
+    cout << "Masukan Lebarnya = ";
+    cin >> Lebar;
     }
 }
